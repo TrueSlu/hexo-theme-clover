@@ -1,6 +1,6 @@
 # Custom nav
 nav:
-  title: "Clover Tuan"
+  title: "Puppet Blog"
 
 favicon: ""
 
@@ -32,8 +32,8 @@ menu:
   #   path: /tags/Stuffs
   #   card: article-card
   Home: /
+  About: https://puppet-app.herokuapp.com
   Archive: /archives
-  Products: https://localhost:8090/
 
 # Specific default categories or tags of home page.
 # Post which belongs to `category` or `tag` and don't belongs to `except_category` or `except_tag` will be filtered.
